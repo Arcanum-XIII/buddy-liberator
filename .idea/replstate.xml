@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<project version="4">
-  <component name="ReplState" timestamp="1421067360622">{:repl-history {:ide [], :local [&quot;(require '[buddy-test.core.handler])&quot; &quot;UnsupportedClassVersionErro&quot; &quot;(println users)&quot;], :remote []}}</component>
-</project>
