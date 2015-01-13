@@ -1,6 +1,6 @@
-# buddy-test
+# buddy-liberator
 
-FIXME
+Sample repository to show one way to integrate [Buddy][https://github.com/funcool/buddy] and [Liberator][clojure-liberator.github.io/liberator/]
 
 ## Prerequisites
 
@@ -12,8 +12,12 @@ You will need [Leiningen][] 2.0.0 or above installed.
 
 To start a web server for the application, run:
 
-    lein ring server
+    lein ring server-headless
 
-## License
+## Testing 
+```
+$ curl -X POST  -H "Content-type: application/json" -d '{"username": "friend", "password": "clojure"}' http://localhost:3000/login -i
 
-Copyright © 2015 FIXME
+
+$ curl -i 'http://localhost:3000/test-url' -H "Accept: application/json" -H "authorization:Token TokenObtainedWithThePreviousCommand"
+```
