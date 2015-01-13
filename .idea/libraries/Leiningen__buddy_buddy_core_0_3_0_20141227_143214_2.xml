@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Leiningen: buddy/buddy-core:0.3.0-20141227.143214-2">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/buddy/buddy-core/0.3.0-SNAPSHOT/buddy-core-0.3.0-SNAPSHOT.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
