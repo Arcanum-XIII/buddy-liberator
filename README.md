@@ -1,12 +1,10 @@
 # buddy-liberator
 
-Sample repository to show one way to integrate [Buddy][https://github.com/funcool/buddy] and [Liberator][clojure-liberator.github.io/liberator/]
+Sample repository to show one way to integrate [Buddy](https://github.com/funcool/buddy) and [Liberator](clojure-liberator.github.io/liberator/)
 
 ## Prerequisites
 
-You will need [Leiningen][] 2.0.0 or above installed.
-
-[leiningen]: https://github.com/technomancy/leiningen
+You will need [Leiningen](https://github.com/technomancy/leiningen) 2.0.0 or above installed.
 
 ## Running
 
